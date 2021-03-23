@@ -4,6 +4,8 @@
     <a href="https://github.com/badges/poser/blob/master/LICENSE"><img src="https://poser.pugx.org/laravel-shift/blueprint/license.svg" alt="License"></a>
 </p>
 
+Test
+
 ![Blueprint](blueprint-logo.png)
 
 _Blueprint_ is an open-source tool for **rapidly generating multiple** Laravel components from a **single, human readable** definition.
